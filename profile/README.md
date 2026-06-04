@@ -1,17 +1,29 @@
 <p align="center">
-  <img src="axelogo.png" alt="AXE Lab Logo" width="220">
+  <img src="https://raw.githubusercontent.com/AXE-KAIST/.github/main/profile/axelogo.png" alt="AXE Lab Logo" width="220">
 </p>
 
+<h1 align="center">AXE Lab</h1>
 
+<p align="center">
+  <b>Automotive Intelligence × Electrification Lab</b><br>
+  AI for Autonomous Driving at KAIST
+</p>
 
-  **Automotive Intelligence × Electrification Lab**  
-  **AI for Autonomous Driving at KAIST**
+<p align="center">
+  <a href="https://axelab.kaist.ac.kr/">
+    <img src="https://img.shields.io/badge/Website-axelab.kaist.ac.kr-0A66C2?style=flat-square">
+  </a>
+  <a href="https://mo.kaist.ac.kr/en/">
+    <img src="https://img.shields.io/badge/KAIST-Mobility-003478?style=flat-square">
+  </a>
+  <a href="https://axelab.kaist.ac.kr/">
+    <img src="https://img.shields.io/badge/Research-Autonomous%20Driving%20%7C%20Electric%20Powertrain-brightgreen?style=flat-square">
+  </a>
+  <a href="https://www.youtube.com/channel/UCapcmvwLcTo3jeGs84yex_A">
+    <img src="https://img.shields.io/badge/YouTube-AXE%20Lab-red?style=flat-square">
+  </a>
+</p>
 
-  [![Website](https://img.shields.io/badge/Website-axelab.kaist.ac.kr-0A66C2?style=flat-square)](https://axelab.kaist.ac.kr/)
-  [![KAIST](https://img.shields.io/badge/KAIST-Mobility-003478?style=flat-square)](https://mo.kaist.ac.kr/en/)
-  [![Research](https://img.shields.io/badge/Research-Autonomous%20Driving%20%7C%20Electric%20Powertrain-brightgreen?style=flat-square)](https://axelab.kaist.ac.kr/)
-  [![YouTube](https://img.shields.io/badge/YouTube-AXE%20Lab-red?style=flat-square)](https://www.youtube.com/channel/UCapcmvwLcTo3jeGs84yex_A)
-</div>
 
 ---
 
