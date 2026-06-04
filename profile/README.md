@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AXE-KAIST/.github/main/profile/axelogo.png" alt="AXE Lab Logo" width="220">
+  <img src="https://github.com/AXE-KAIST/.github/blob/main/profile/axelogo.png?raw=true" alt="AXE Lab Logo" width="220">
 </p>
 
 <h1 align="center">AXE Lab</h1>
