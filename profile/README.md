@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/axe-logo.png" alt="AXE Lab Logo" width="220">
+  <img src="assets/axelogo.png" alt="AXE Lab Logo" width="220">
 </p>
 
 
