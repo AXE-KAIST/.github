@@ -53,68 +53,6 @@ We study intelligent and efficient electric vehicle systems, including:
 
 ---
 
-## Selected Research Themes
-
-AXE Lab projects and publications cover topics such as:
-
-- High-efficiency End-to-End autonomous driving using neural simulators, world models, and reinforcement learning
-- Knowledge transfer from reinforcement-learning policies to End-to-End autonomous-driving models
-- Reference datasets and AI models for End-to-End autonomous-driving technology
-- Reinforcement-learning-based parking-path generation
-- Seamless autonomous driving under adverse weather and unstructured environmental changes
-- Level 4 autonomous-driving testbed construction and scenario-based evaluation
-- Reaction-uncertainty-aware motion planning for interactive driving
-- Continual reinforcement learning for scalable collision avoidance and mitigation
-- Camera-radar fusion for 3D occupancy prediction
-- NeRF-based pre-training for autonomous-driving perception
-- Scalable perception with multi-level active domain adaptation
-- High-fidelity FCEV thermal-management modeling
-
----
-
-## Representative Publications
-
-Recent representative works include:
-
-- **To View Transform or Not To View Transform: NeRF-based Pre-training Perspective**  
-  *International Conference on Learning Representations (ICLR), 2026*
-
-- **Reducing Annotation Costs for Autonomous Driving: Scalable Perception via Multi-Level Active Domain Adaptation**  
-  *IEEE Intelligent Vehicles Symposium, 2026*
-
-- **REOcc: Camera-Radar Fusion with Radar Feature Enrichment for 3D Occupancy Prediction**  
-  *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
-
-- **Reaction-Uncertainty-Aware Motion Planning for Interactive Driving via Conditional Multi-modal Motion Prediction**  
-  *IEEE Access*
-
-- **Continual Reinforcement Learning Framework for Scalable Collision Avoidance and Mitigation System**  
-  *IEEE Robotics and Automation Letters*
-
-- **High-fidelity modeling of the Toyota Mirai FCEV thermal management system: a step toward real-vehicle validation**  
-  *Energy Conversion and Management*
-
-For the complete publication list, please visit the official AXE Lab website.
-
----
-
-## Ongoing Projects
-
-Current and recent projects include:
-
-| Area | Project | Period | Sponsor |
-|---|---|---:|---|
-| Autonomous Vehicles | High-efficiency End-to-End autonomous-driving core technology using neural simulators / world models and real-vehicle validation | 2026.03.01 – 2030.02.28 | National Research Foundation of Korea |
-| Autonomous Vehicles | Knowledge-transfer methodology for reinforcement-learning-based collision avoidance / mitigation algorithms | 2026.03.16 – 2027.04.15 | Hyundai Motor Company |
-| Autonomous Vehicles | Reference data construction and core technology development for End-to-End autonomous driving | 2025.07.01 – 2028.12.31 | Ministry of Trade, Industry and Energy |
-| Autonomous Vehicles | Reinforcement-learning-based parking path generation for autonomous parking | 2025.06.01 – 2026.05.31 | Hyundai Motor Company |
-| Electric Powertrain | SOC planning control framework for improving EREV fuel economy | 2025.08.19 – 2026.10.18 | Hyundai Motor Company |
-| Autonomous Vehicles | Level 4 autonomous-driving vehicle testbed environment construction | 2021.04.01 – 2027.12.31 | Ministry of Land, Infrastructure and Transport |
-| Autonomous Vehicles | Core perception and decision-making AI software for seamless autonomous driving in adverse weather and unstructured environments | 2023.04.01 – 2026.12.31 | Ministry of Science and ICT |
-| Autonomous Vehicles | DNA+ road-transport convergence technology graduate program | 2022.05.01 – 2027.12.31 | Ministry of Land, Infrastructure and Transport |
-
----
-
 ## What You Can Find Here
 
 This GitHub organization is intended to share research artifacts from AXE Lab, such as:
@@ -133,7 +71,7 @@ Please check each repository for its own license, citation instructions, install
 
 ## Principal Investigator
 
-**Prof. Dongsuk Kum**  
+**Assoc. Prof. Dr. Dongsuk Kum**  
 Graduate School of Mobility, KAIST  
 Research interests: intelligent vehicular systems, autonomous vehicles, and electric powertrain systems.
 
