@@ -1,7 +1,8 @@
-<div align="center">
-  <img src="https://axelab.kaist.ac.kr/images/common/logo.png" width="120" alt="AXE Lab Logo" />
+<p align="center">
+  <img src="assets/axe-logo.png" alt="AXE Lab Logo" width="220">
+</p>
 
-  # AXE Lab
+
 
   **Automotive Intelligence × Electrification Lab**  
   **AI for Autonomous Driving at KAIST**
